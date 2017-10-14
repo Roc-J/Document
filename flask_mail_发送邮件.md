@@ -25,11 +25,11 @@ Flask-Mail连接到简单邮件传输协议（SMTP）服务器，并把邮件交
 
 第一步：使用163邮箱，需要先登录客户端进行设置，点击设置>POP3/SMTP/IMAP
 
-![](file:///C:/Users/Roc-J/Pictures/step1.PNG)
+![](https://raw.githubusercontent.com/Roc-J/Document/master/photos/step1.PNG)
 
 第二步：点击左侧客户端授权密码
 
-![](file:///C:/Users/Roc-J/Pictures/step2.PNG)
+![](https://raw.githubusercontent.com/Roc-J/Document/master/photos/step2.PNG)
 
 进行相关操作开启客户端授权码
 
@@ -77,7 +77,7 @@ Flask-Mail连接到简单邮件传输协议（SMTP）服务器，并把邮件交
 
 >注意，这里的密码是刚刚客户端设置的客户端授权码的密码，不是邮箱的密码。
 
-![](file:///C:/Users/Roc-J/Pictures/step3.PNG)
+![](https://raw.githubusercontent.com/Roc-J/Document/master/photos/step3.PNG)
 
 >注意，cmd设置环境变量不需要加引号，直接输入内容即可，并且要注意！注意！注意！这个设置是临时变量，因此不要关闭这个terminal，直接在下面运行该程序
 
@@ -88,4 +88,4 @@ Flask-Mail连接到简单邮件传输协议（SMTP）服务器，并把邮件交
 就可以正确的运行了~
 好了，虽然很简单，但是刚开始一直没有出来效果。
 
-![](file:///C:/Users/Roc-J/Pictures/step4.PNG)
+![](https://raw.githubusercontent.com/Roc-J/Document/master/photos/step4.PNG)
